@@ -11,6 +11,6 @@
 
 💬 Ask me about C++ programming, transitioning to Python with Django, or any backend development challenges you may be facing.
 
-📫 How to reach me: You can reach me via email at YourEmail@example.com or connect with me on LinkedIn.
+📫 How to reach me: You can reach me via email at drsolucionesinformaticas@gmail.com or connect with me on LinkedIn.
 
 ⚡ Fun fact: I once had a humorous incident while working on a backend project where I accidentally caused a server overload with a poorly optimized database query. It taught me the importance of optimizing code for efficiency in backend development.
